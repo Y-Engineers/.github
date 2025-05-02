@@ -11,5 +11,5 @@
 - [Serielle Kopplung von MC](https://github.com/Y-Engineers/Serielle-Kopplung-von-MCs)
 # Videos
 - [Was ist ESPHome? ESP32 & ESP8266? - Grundlagen für Anfänger ](https://www.youtube.com/watch?v=9YkICApObvo)
-- [Serielle Kopplung von MC](https://www.youtube.com/watch?v=FrY1xQwiwB8)
+- [Welcher Mikrocontroller ist der Beste für dein Projekt?! | Funduino Basics](https://www.youtube.com/watch?v=FrY1xQwiwB8)
 
