@@ -18,3 +18,19 @@
 - [Welcher Mikrocontroller ist der Beste für dein Projekt?! | Funduino Basics](https://www.youtube.com/watch?v=FrY1xQwiwB8)
 
 ---
+
+<div align="center">
+
+  <a href="https://github.com/DerIch69420">
+    <img src="https://github.com/DerIch69420.png" width="100" style="border-radius: 50%;" alt="DerIch69420"/>
+  </a>
+  <a href="https://github.com/asigismund56">
+    <img src="https://github.com/asigismund56.png" width="100" style="border-radius: 50%;" alt="asigismund56"/>
+  </a>
+  <a href="https://github.com/Niclasb-boop">
+    <img src="https://github.com/Niclasb-boop.png" width="100" style="border-radius: 50%;" alt="Niclasb-boop"/>
+  </a>
+
+</div>
+
+
