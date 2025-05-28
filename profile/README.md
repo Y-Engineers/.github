@@ -31,7 +31,12 @@
   <a href="https://github.com/Niclasb-boop">
     <img src="https://github.com/Niclasb-boop.png" width="100" style="border-radius: 50%;" alt="Niclasb-boop"/>
   </a>
-
+  <a href="https://github.com/Ervin1562010">
+    <img src="https://github.com/Ervin1562010.png" width="100" style="border-radius: 50%;" alt="Ervin1562010"/>
+  </a>
+<a href="https://github.com/Simon9060">
+    <img src="https://github.com/Simon9060.png" width="100" style="border-radius: 50%;" alt="Simon9060"/>
+  </a>
 </div>
 
 
