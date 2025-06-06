@@ -34,8 +34,14 @@
   <a href="https://github.com/Ervin1562010">
     <img src="https://github.com/Ervin1562010.png" width="100" style="border-radius: 50%;" alt="Ervin1562010"/>
   </a>
-<a href="https://github.com/Simon9060">
+  <a href="https://github.com/Simon9060">
     <img src="https://github.com/Simon9060.png" width="100" style="border-radius: 50%;" alt="Simon9060"/>
+  </a>
+  <a href="https://github.com/Atschi37">
+    <img src="https://github.com/Atschi37.png" width="100" style="border-radius: 50%;" alt="Atschi37"/>
+  </a>
+  <a href="https://github.com/Irenwer">
+    <img src="https://github.com/Irenwer.png" width="100" style="border-radius: 50%;" alt="Irenwer"/>
   </a>
 </div>
 
